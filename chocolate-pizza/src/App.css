@@ -1,0 +1,104 @@
+* {
+  box-sizing: border-box;
+  
+}
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.topRightNavImages {
+  height: 15px;
+  width: 15px;
+} 
+
+.topLeftHeader {
+  display: inline-block;
+  margin: 15px;
+  height: 30px;
+
+} 
+
+/* #delicious {
+  position: relative;
+  top: -20px;
+  right: -5px;
+  font-family: 'Lobster', cursive;
+}
+#bestFood {
+  position: relative;
+  top: -40px;
+  font-size: 9px;
+  left: 35px;
+  
+}
+
+#topLeftHeaderPic {
+  float: left;
+}
+
+#topHrImage {
+  background-image: url("./assests/hr-img.png");
+  background-repeat: repeat-x;
+}
+
+#bodyHeader {
+  display: flex;
+  justify-content: space-between;
+  border: black solid 2px;
+  
+}
+#postedOn {
+  position: relative;
+  top: -20px;
+  right: -5px;
+}
+.smallText
+  {
+      font-size: 10px;
+  }
+
+.leftSide, .rightSide {
+  list-style: none;
+  position: absolute;
+  line-height: 30px;
+  top: 1043px;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  color: rgba(97, 60, 60, 0.8);
+  
+
+}
+
+
+.recipeBox {
+  position: absolute;
+  text-align: center;
+}
+.rightSide {
+ 
+  left: 500px;
+  
+}
+
+#postedOn {
+  position: relative;
+  top: 45px;
+  right: 407px;
+  font-size: 10px;
+  color: grey;
+}
+
+#chocoPizzaPic {
+  width: 60%;
+  height: 30%;
+  align-items: center;
+}
+#main {
+   justify-content: center;
+   align-content: center;
+   text-align: center;
+} */
+
+
+
+ 
